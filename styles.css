@@ -39,6 +39,7 @@
      display: flex;
      flex-direction: column;
      gap: 10px;
+     color: #e5e7eb;
  }
 
  .hero{
@@ -49,4 +50,20 @@
  .main .right{
      flex-shrink: 0;
      width: 50%;
+ }
+ .image{
+     background-color: grey;
+     height: 210px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     color: #e5e7eb;
+ }
+ .hero-btn{
+     background-color: #3882f6;
+     width: 120px;
+     padding: 1em;
+     border-radius: 8px;
+     color:#f9faf8;
+
  }

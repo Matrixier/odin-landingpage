@@ -154,3 +154,12 @@ strong {
 p{
     color: #FFF;
 }
+.footer{
+    background-color: #1f2937;
+    height: 5em;
+}
+.footer p{
+    text-align: center;
+    padding-top: 25px;
+    font-size: large;
+}
